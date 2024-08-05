@@ -1,0 +1,52 @@
+_repo: Evans-of-the-Earth-Guard_74119
+_version: 0.0.1
+alternative_title: Evans of the Earth Guard
+contributor:
+  illustrators:
+  - agent_name: Paul, Frank R. (Frank Rudolph)
+    alias: Paul, Frank Rudolph
+    birthdate: 1884
+    deathdate: 1963
+    gutenberg_agent_id: '31333'
+    url: http://www.gutenberg.org/2009/agents/31333
+    wikipedia: https://en.wikipedia.org/wiki/Frank_R._Paul
+  - agent_name: Winter, Lumen Martin
+    birthdate: 1908
+    deathdate: 1982
+    gutenberg_agent_id: '57327'
+    url: http://www.gutenberg.org/2009/agents/57327
+    wikipedia: https://en.wikipedia.org/wiki/Lumen_Martin_Winter
+creator:
+  author:
+    agent_name: Hamilton, Edmond
+    alias: Sterling, Brett
+    birthdate: 1904
+    deathdate: 1977
+    gutenberg_agent_id: '26787'
+    url: http://www.gutenberg.org/2009/agents/26787
+    wikipedia: https://en.wikipedia.org/wiki/Edmond_Hamilton
+description: ''
+gutenberg_issued: '2024-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74119'
+language: en
+pgterms:marc905: 20240510135446hamilton
+pgterms:marc906: '1930'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bStellar Publishing Corporation, $c1930.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Space ships -- Fiction'
+- !lcsh 'Law enforcement -- Fiction'
+- !lcsh 'Space pirates -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Evans of the Earth-Guard
+url: http://www.gutenberg.org/ebooks/74119
