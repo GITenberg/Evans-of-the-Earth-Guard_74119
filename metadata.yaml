@@ -16,6 +16,9 @@ contributor:
     gutenberg_agent_id: '57327'
     url: http://www.gutenberg.org/2009/agents/57327
     wikipedia: https://en.wikipedia.org/wiki/Lumen_Martin_Winter
+covers:
+- cover_type: archival
+  image_path: 74119-h/images/cover.jpg
 creator:
   author:
     agent_name: Hamilton, Edmond
@@ -26,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26787
     wikipedia: https://en.wikipedia.org/wiki/Edmond_Hamilton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74119#Evans-of-the-Earth-Guard
 gutenberg_issued: '2024-07-25'
 gutenberg_type: Text
 identifiers:
